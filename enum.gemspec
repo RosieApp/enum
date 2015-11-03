@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
      Java like enum functionality when you need more than a unique identifier. 
    DESC
    s.homepage = %q{http://github.com/capnregex/enum}
-   s.version = "0.1.3"
+   s.version = "1.0.3"
    s.date = %q{2010-09-10}
    s.authors = [ "CapnRegex" ]
    s.email = %q{capnregex@gmail.org}
